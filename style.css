@@ -1,15 +1,9 @@
-.cabecalho{
-        background-color: #424E61;
-        color: white;
-        display: flex; 
-        justify-content: space-around;
- }
-            
-.cabecalho-imagem{
-    width: 20%;
+header{
 
+       background-color: #424E61;
+       color: white;
 
-.cabecalho-lista-item
-    displa:inlene-block
-    margin: 0 16px ;
+.cabecalho_image{
+
+    
 }
